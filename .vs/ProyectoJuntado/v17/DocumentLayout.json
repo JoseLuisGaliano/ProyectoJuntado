@@ -1,0 +1,749 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\playlistlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\playlistlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\editplaylistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\editplaylistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\selectsongswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\selectsongswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\queuewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\queuewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\playlistlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\playlistlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\playlistdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\playlistdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\feedbackwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\feedbackwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\addplaylistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\addplaylistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\player\\playerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\player\\playerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\queuewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\queuewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\datatypes\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\datatypes\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\feedbackwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\feedbackwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\datatypes\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\datatypes\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\datatypes\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\datatypes\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\datatypes\\artistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\datatypes\\artistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\sesion\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\sesion\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\sesion\\sesionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\sesion\\sesionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\sesion\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\sesion\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\sesion\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\sesion\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\addplaylistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\addplaylistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\playlistlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\playlistlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\playlistdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\playlistdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\editplaylistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\editplaylistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\player\\playerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\player\\playerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\playlists\\selectsongswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\playlists\\selectsongswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\payment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\payment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\eventslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\eventslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\event.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\event.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\completepurchase.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\completepurchase.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\buy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\buy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\datatypes\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\datatypes\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\settings1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\settings1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\player\\playerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\player\\playerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\payment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\payment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\settings1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\settings1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\event.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\event.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\completepurchase.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\completepurchase.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\events\\buy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\events\\buy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\ProyectoJuntado.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoJuntado\\ProyectoJuntado.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\proyectojuntado\\proyectojuntado\\proyectojuntado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0A05FFA-DDE8-4E2D-AD99-6C26F739D642}|ProyectoJuntado\\ProyectoJuntado.csproj|solutionrelative:proyectojuntado\\proyectojuntado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaylistLogic.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistLogic.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\PlaylistLogic.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistLogic.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\PlaylistLogic.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAHgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:13:57.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\QueueWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\QueueWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\QueueWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\QueueWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:31:45.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectSongsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\SelectSongsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\SelectSongsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\SelectSongsWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\SelectSongsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:13:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditPlaylistWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\EditPlaylistWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\EditPlaylistWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\EditPlaylistWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\EditPlaylistWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:12:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Database\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Database\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Database\\DatabaseManager.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Database\\DatabaseManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:51:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaylistListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\PlaylistListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistListWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\PlaylistListWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:29:25.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaylistDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\PlaylistDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistDetailsWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\PlaylistDetailsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:42:39.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\FeedbackWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\FeedbackWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\FeedbackWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\FeedbackWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:42:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddPlaylistWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\AddPlaylistWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\AddPlaylistWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\AddPlaylistWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\AddPlaylistWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:57:27.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Player\\PlayerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Player\\PlayerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Player\\PlayerWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Player\\PlayerWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAADEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:20:25.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueueWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\QueueWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\QueueWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\QueueWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\QueueWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T10:12:58.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\Song.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\DataTypes\\Song.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\Song.cs",
+              "RelativeToolTip": "ProyectoJuntado\\DataTypes\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:26:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FeedbackWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\FeedbackWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\FeedbackWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\FeedbackWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\FeedbackWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:01:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\Playlist.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\DataTypes\\Playlist.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\Playlist.cs",
+              "RelativeToolTip": "ProyectoJuntado\\DataTypes\\Playlist.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:27:53.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketType.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\TicketType.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\DataTypes\\TicketType.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\TicketType.cs",
+              "RelativeToolTip": "ProyectoJuntado\\DataTypes\\TicketType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:22:45.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtistModel.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\ArtistModel.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\DataTypes\\ArtistModel.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\ArtistModel.cs",
+              "RelativeToolTip": "ProyectoJuntado\\DataTypes\\ArtistModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:22:20.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignUpWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Sesion\\SignUpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Sesion\\SignUpWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Sesion\\SignUpWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Sesion\\SignUpWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:33:22.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SesionLogic.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Sesion\\SesionLogic.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Sesion\\SesionLogic.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Sesion\\SesionLogic.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Sesion\\SesionLogic.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:32:36.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Sesion\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Sesion\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Sesion\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Sesion\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:31:16.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ForgotPasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Sesion\\ForgotPasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Sesion\\ForgotPasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Sesion\\ForgotPasswordWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Sesion\\ForgotPasswordWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:31:08.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddPlaylistWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\AddPlaylistWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\AddPlaylistWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\AddPlaylistWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\AddPlaylistWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T15:57:31.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditPlaylistWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\EditPlaylistWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\EditPlaylistWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\EditPlaylistWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\EditPlaylistWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T06:13:16.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlaylistListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistListWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\PlaylistListWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistListWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\PlaylistListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T10:12:41.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlaylistDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\PlaylistDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\PlaylistDetailsWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\PlaylistDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T10:12:19.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerLogic.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Player\\PlayerLogic.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Player\\PlayerLogic.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Player\\PlayerLogic.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Player\\PlayerLogic.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:03:30.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:19:57.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SelectSongsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\SelectSongsWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Playlists\\SelectSongsWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Playlists\\SelectSongsWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Playlists\\SelectSongsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T15:58:17.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Payment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Payment.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\Payment.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Payment.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\Payment.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:57:49.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EventsLogic.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\EventsLogic.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\EventsLogic.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\EventsLogic.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\EventsLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:17:38.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Event.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Event.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\Event.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Event.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\Event.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:41:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CompletePurchase.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\CompletePurchase.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\CompletePurchase.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\CompletePurchase.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\CompletePurchase.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:21:14.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Buy.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Buy.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\Buy.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Buy.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\Buy.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:21:17.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\EventModel.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\DataTypes\\EventModel.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\DataTypes\\EventModel.cs",
+              "RelativeToolTip": "ProyectoJuntado\\DataTypes\\EventModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:22:33.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Settings1.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Settings1.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\Settings1.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Settings1.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\Settings1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:58:11.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PlayerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Player\\PlayerWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Player\\PlayerWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Player\\PlayerWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Player\\PlayerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T18:20:14.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Payment.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Payment.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\Payment.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Payment.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\Payment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T18:24:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Settings1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Settings1.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\Settings1.Designer.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Settings1.Designer.cs",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\Settings1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:58:20.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Event.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Event.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\Event.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Event.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\Event.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T18:24:35.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CompletePurchase.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\CompletePurchase.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\CompletePurchase.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\CompletePurchase.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\CompletePurchase.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T18:24:39.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Buy.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Buy.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\Events\\Buy.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\Events\\Buy.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\Events\\Buy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T06:56:39.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\App.xaml.cs",
+              "RelativeToolTip": "ProyectoJuntado\\App.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:12:02.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\App.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\App.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\App.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T18:24:43.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\MainWindow.xaml",
+              "RelativeToolTip": "ProyectoJuntado\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T12:57:36.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProyectoJuntado.csproj",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\ProyectoJuntado.csproj",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\ProyectoJuntado.csproj",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\ProyectoJuntado.csproj",
+              "RelativeToolTip": "ProyectoJuntado\\ProyectoJuntado.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T12:52:25.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProyectoJuntado.csproj.user",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\ProyectoJuntado.csproj.user",
+              "RelativeDocumentMoniker": "ProyectoJuntado\\ProyectoJuntado.csproj.user",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\ProyectoJuntado\\ProyectoJuntado\\ProyectoJuntado.csproj.user",
+              "RelativeToolTip": "ProyectoJuntado\\ProyectoJuntado.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-04-26T16:55:37.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

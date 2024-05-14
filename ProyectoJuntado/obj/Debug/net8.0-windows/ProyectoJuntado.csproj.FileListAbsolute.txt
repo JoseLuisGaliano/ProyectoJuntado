@@ -1,0 +1,266 @@
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.csproj.AssemblyReference.cache
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.csproj.ResolveComReference.cache
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Buy.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\CompletePurchase.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Event.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Payment.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Others\FeedbackWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Others\MainWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Others\PlaylistWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Others\QueueWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Player\PlayerWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\ForgotPasswordWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\SignUpWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\AddPlaylistWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\EditPlaylistWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\MainWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\PlaylistListWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\SelectSongsWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Buy.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\CompletePurchase.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Event.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Payment.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Others\FeedbackWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Others\MainWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Others\PlaylistWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Others\QueueWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Player\PlayerWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\ForgotPasswordWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\LoginWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\SignUpWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\AddPlaylistWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\EditPlaylistWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\MainWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\PlaylistListWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\SOFTWARE\SelectSongsWindow.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado_MarkupCompile.cache
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado_MarkupCompile.lref
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.exe
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.deps.json
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.runtimeconfig.json
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.pdb
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\LoginWindow.baml
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.g.resources
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.AssemblyInfoInputs.cache
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.AssemblyInfo.cs
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Proyecto.8157A591.Up2Date
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\refint\ProyectoJuntado.dll
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.pdb
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.genruntimeconfig.cache
+C:\Users\Jaime\Desktop\2 Cuatri\Software Engineering\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ref\ProyectoJuntado.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\refint\ProyectoJuntado.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.pdb
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.csproj.AssemblyReference.cache
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.csproj.ResolveComReference.cache
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Buy.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\CompletePurchase.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Event.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Payment.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Player\PlayerWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\AddPlaylistWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\EditPlaylistWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\PlaylistListWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\SelectSongsWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\ForgotPasswordWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\SignUpWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Buy.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\CompletePurchase.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Event.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Events\Payment.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Player\PlayerWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\AddPlaylistWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\EditPlaylistWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\PlaylistListWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\SelectSongsWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\ForgotPasswordWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\LoginWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\SignUpWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado_MarkupCompile.cache
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado_MarkupCompile.lref
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.exe
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.deps.json
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.runtimeconfig.json
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ProyectoJuntado.pdb
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Sesion\LoginWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.g.resources
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.AssemblyInfoInputs.cache
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.AssemblyInfo.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.csproj.CoreCompileInputs.cache
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Proyecto.8157A591.Up2Date
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ProyectoJuntado.genruntimeconfig.cache
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\ref\ProyectoJuntado.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.AzureStorage.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Azure.KeyVault.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Azure.Storage.Blob.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Azure.Storage.Common.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Data.Edm.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Data.OData.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\System.Spatial.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\de\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\es\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\it\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\de\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\es\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\fr\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\it\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ja\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ko\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ru\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\de\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\es\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\fr\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\it\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ja\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ko\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\ru\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hans\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\bin\Debug\net8.0-windows\zh-Hant\System.Spatial.resources.dll
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\PlaylistDetailsWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\PlaylistDetailsWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\FeedbackWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\QueueWindow.baml
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\FeedbackWindow.g.cs
+C:\Users\nicoi\OneDrive\Escritorio\ProyectoJuntado\ProyectoJuntado\obj\Debug\net8.0-windows\Playlist\QueueWindow.g.cs

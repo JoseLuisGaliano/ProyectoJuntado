@@ -1,0 +1,17 @@
+﻿<Window x:Class="ProyectoJuntado.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoJuntado"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+		<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20">
+            <Button Content="Go to Events" Width="120" Height="40" Click="GoToEvents_Click"/>
+            <Button Content="Go to Login" Width="120" Height="40" Click="GoToLogin_Click"/>
+			<Button Content="Go to Playlist" Width="120" Height="40" Click="GoToPlaylist_Click"/>
+		</StackPanel>
+
+    </Grid>
+</Window>

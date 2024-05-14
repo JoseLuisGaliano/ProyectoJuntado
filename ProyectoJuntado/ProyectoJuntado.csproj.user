@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Events -->
+    <Compile Update="Events\Buy.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Events\Payment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Events\CompletePurchase.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Update="Events\Event.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Events\Buy.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Events\Payment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Events\CompletePurchase.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <!-- Others -->
+    <Compile Update="Playlists\PlaylistDetailsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Update="Playlists\PlaylistDetailsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <!-- Player -->
+    <Page Update="Player\PlayerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <!-- Sesion -->
+    <!-- PLAYLIST -->
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
